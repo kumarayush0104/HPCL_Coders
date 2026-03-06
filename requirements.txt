@@ -1,0 +1,8 @@
+faiss-cpu
+sentence-transformers
+pandas
+numpy
+statsmodels
+fastapi
+uvicorn
+streamlit
