@@ -137,6 +137,7 @@ Deployment configuration:
 - Repository: `kumarayush0104/HPCL_Coders`
 - Branch: `main`
 - Main file path: `dashboard/app.py`
+- Live application: `https://hpcl-coders.streamlit.app/`
 
 ## 9. Stage 1 Execution Notes
 Stage 1 notebook assets are in `stage1/` and represent:
@@ -176,3 +177,13 @@ These notebooks were prepared for notebook-first execution and include reference
 
 ## 14. Ownership
 Developed by Team CODERS as part of Challenge 3.3: Creating Intelligent Cost Database.
+
+## 15. Contributors
+Contributors:
+- Ankita Kumari
+- Shyam Kumar
+- Prateek Yadav
+
+Mentor:
+- Alakh Avasthi
+
