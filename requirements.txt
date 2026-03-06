@@ -5,4 +5,5 @@ numpy
 statsmodels
 fastapi
 uvicorn
-streamlit
+streamlit>=1.32,<2
+altair<5
